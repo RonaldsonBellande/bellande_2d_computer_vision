@@ -6,16 +6,16 @@
 ### API Functionality
 
 **User Image classification prediction**
-- endpoint_path: /api/Bellande_2D_Computer_Vision/bellande_classification_prediction
+- **endpoint_path**: /api/Bellande_2D_Computer_Vision/bellande_classification_prediction
 
 **User Image Object Detection**
-- endpoint_path: /api/Bellande_2D_Computer_Vision/bellande_object_detection
+- **endpoint_path**: /api/Bellande_2D_Computer_Vision/bellande_object_detection
 
 **User Image Instance Segmentation**
-- endpoint_path: /api/Bellande_2D_Computer_Vision/bellande_instance_segmentation
+- **endpoint_path**: /api/Bellande_2D_Computer_Vision/bellande_instance_segmentation
 
 **User Image Sementic Segmentation**
-- endpoint_path: /api/Bellande_2D_Computer_Vision/bellande_sementic_segmentation
+- **endpoint_path**: /api/Bellande_2D_Computer_Vision/bellande_sementic_segmentation
 
 
 ## Can also checkout portion of the docs at [Portion API DOCS](https://github.com/Artificial-Intelligence-Computer-Vision/bellande_2d_computer_vision/blob/main/api_docs.md)
