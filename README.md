@@ -1,5 +1,20 @@
 # 📦 Bellande 2D Computer Vision
 
+# API Usability
+```
+{
+  "url": "https://bellanderoboticssensorsresearchinnovationcenter-kot42qxp.b4a.run",
+  "endpoint_path": {
+    "prediction": "/api/Bellande_2D_Computer_Vision/bellande_classification_prediction",
+    "face_detection": "/api/Bellande_2D_Computer_Vision/bellande_face_detection",
+    "object_detection": "/api/Bellande_2D_Computer_Vision/bellande_object_detection",
+    "instance_segmentation": "/api/Bellande_2D_Computer_Vision/bellande_instance_segmentation",
+    "sementic_segmentation": "/api/Bellande_2D_Computer_Vision/bellande_sementic_segmentation"
+  },
+  "Bellande_Framework_Access_Key": "bellande_web_api_opensource"
+}
+```
+
 ## Benifits of using Bellande 2D Computer Vision API
 - Can be used in any Programming Languages
 - Can be used in any Operating Systems
